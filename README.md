@@ -10,4 +10,4 @@ Developing Resilient AI & Robotics.
 - **Robotics:** ROS2 (Robot Operating System), SLAM, Sensor Fusion
 
 ## 📫 Connect with me
-- [LinkedIn](www.linkedin.com/in/cuong-dang-bb42a0385)
+- [LinkedIn](https://linkedin.com/in/cuong-dang-bb42a0385)
